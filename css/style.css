@@ -1,5 +1,10 @@
-body {
+body.bg {
   background-color: #EEE;
+}
+
+.dark {
+  background-color: black;
+  color: lightgray;
 }
 
 .pet {
@@ -18,4 +23,7 @@ img {
 
 h1 {
   text-align: center;
+}
+
+#darkToggle {
 }
